@@ -36,7 +36,11 @@ python scripts/face_synchronize.py
 
 ```
 ![Sample](landmark_YuiAragaki.png)
-Original photo copyright reserved actress herself.
+
+> [!NOTE]
+> Original photo copyright reserved actress herself.
+> Japanese famous actress thanks
+
 
 MIT License
 Manyan3 
